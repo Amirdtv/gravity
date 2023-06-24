@@ -1,0 +1,8 @@
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\bin\Debug\gravity.exe.config
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\bin\Debug\gravity.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\bin\Debug\gravity.pdb
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\obj\Debug\gravity.csproj.AssemblyReference.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\obj\Debug\gravity.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\obj\Debug\gravity.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\obj\Debug\gravity.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\gravity\gravity\obj\Debug\gravity.pdb
